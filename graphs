@@ -52,3 +52,13 @@
 6 7
 7 8
 8 6
+
+
+# ADJACENCY MATRIX FOR BFS (matrix n * n)
+5
+0 1 0 0 1
+1 0 1 0 0
+0 1 0 0 0
+0 0 0 0 0
+1 0 0 0 0
+3 5
