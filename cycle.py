@@ -10,7 +10,6 @@ for i in range(m):
     s -= 1
     f -= 1
     graph[s].append(f)
-    graph[f].append(s)
 
 
 def dfs(v: int) -> None:
